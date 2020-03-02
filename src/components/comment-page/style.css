@@ -1,0 +1,40 @@
+.CommentsPage-content {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 30px;
+}
+
+.CommentsPage .content-box {
+    background: white;
+    margin: 0 auto;
+    margin-top: 75px;
+    padding: 15px 30px;
+}
+  
+.CommentsPage a.title {
+    color: #444;
+    text-decoration: none;
+    display: block;
+    padding: 16px 0;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.CommentsPage .details {
+    color: #888;
+    font-size: 15px;
+    font-weight: 500;
+}
+   
+.CommentsPage .comment-box {
+    background: white;
+    padding: 15px 30px;
+    margin: 15px auto 0 auto;
+}
+  
+.CommentsPage .comment-count {
+    color: #888;
+    font-size: 15px;
+    font-weight: 500;
+}
+

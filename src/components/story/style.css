@@ -1,0 +1,25 @@
+.Story  {
+  background: white;
+  display: flex;
+  flex-direction: row;
+  padding: 15px 25px;
+  border-bottom: 3px solid #fafafa;
+  align-items: center;
+}
+  
+.Story-score  {
+  color: #f60;
+  font-weight: bold;
+  min-width: 50px;
+}
+  
+.Story-links  {
+  color: #888;
+  font-size: 13px;
+  margin-top: 5px;
+}
+
+.Story-links a:hover {
+  color: #f60;
+}
+  

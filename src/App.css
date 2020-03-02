@@ -1,0 +1,13 @@
+body {
+  background-color: #f2f3f5;
+}
+
+body a {
+  text-decoration: none;
+  color: #333;
+  cursor: pointer;
+}
+
+.App {
+  text-align: center;
+}

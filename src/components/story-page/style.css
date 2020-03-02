@@ -1,0 +1,22 @@
+.StoryPage-content {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 90px 30px 20px 30px;
+  margin-top: 73px;  
+}
+
+.Slider {
+  position: fixed;
+  background: #fff;
+  left: 0;
+  right: 0;
+  padding: 20px;
+  text-align: center;
+  color: #f60;
+}
+
+.Slider button {
+  border: none; 
+  background: inherit;
+  cursor: pointer;
+}

@@ -1,0 +1,25 @@
+.UserPage-c {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 30px;
+}
+
+.UserPage-content {
+  background-color: #fff;
+  padding: 50px;
+  max-width: 900px;
+  margin: 0 auto;
+  margin-top: 75px;
+    
+}
+
+.User-id {
+  font-size: 1.5em;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+.User-karma {
+  padding-bottom: 10px;
+  min-width: 140px;
+}
